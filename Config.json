@@ -1,0 +1,65 @@
+{
+    "Tokens": {
+      "token_discord":"",
+      "api_square":"709183635697434624-c0340603b87c55982622dadb474983fb38818b06b583d94ce6f629fa0575e216",
+      "id_square":"1a2f72a5911f4f5182044f3946742a1a"
+    },
+    "ApiKeys": {
+      "apiKeyShrtFlyVOID": "418fa7c5a683071a5d5c896c16f45859",
+      "apiKeyLinkSlyVOID": "6e68dec7029c78b51c34438346fd7176d3945b85"
+    },
+    "Cores": {
+      "CorEmbed": "#2B2D31",
+      "CorSucesso": "#16C60C",
+      "CorErro": "#FF0F00"
+    },
+    "Ticket":{
+      "Timer": 10,
+      "Categoria": "1171991969254355045"
+    },
+    "CanaisID": {
+      "CanalVip": "1170228049783042088",
+      "CanalLogPostagens": "1170228072981741578",
+      "CanalLogEncurtador": "1170228285691658280",
+      "CanalLogTickets": "1197781281287700480",
+      "CanalPacks": "1169759192173789336",
+      "CanalPorno": "1169761065006006292",
+      "CanalTufos": "1169761101987197008",
+      "CanalVazados": "1169761138049830962"
+    },
+    "Webhooks": {
+      "WebHookPacksVOID": "https://discord.com/api/webhooks/1197338089752907916/vQgoY4Nzk8wnNyqKO5AW5rD6bYTIYnSAQ9iiwbRg4kwQKqwtqEGPFxSs2vEOZtynvc8Z",
+      "WebHookPornoVOID": "https://discord.com/api/webhooks/1197338286490914888/Mc3BRbEowj4WJLZOM3ma61SGzJ6NMg6frs2XhGCiYEg4QyWyS0Cvj8Dc7nZJ1pdmmc2f",
+      "WebHookTufosVOID": "https://discord.com/api/webhooks/1197338660727689216/YpTYA3dxPgmMPZDBjcpcGUsgc949Sind3nnwfk3gD8G4LjH74Vrmhw0dT2uuNcQ1IfQf",
+      "WebHookVazadosVOID": "https://discord.com/api/webhooks/1197338567349911633/8k6pHl5U7hG1DdO6BaldwDtrLvwEWlBgASyODhaRR0CPFKSl9lREYF8RtkCBiMVZIHI6"
+    },
+    "Emojis": {
+      "Clipe": "<:Paperclip:1169850614562435072>",
+      "Estrela": "<:Star:1169850616361791489>",
+      "Fogo": "<:Fire:1185304542808657950>",
+      "Laco": "<:Ribbon:1185091318356131943>",
+      "MaisDezoito": "<:NoOneUnderEighteen:1185092949571276831>",
+      "Demonio": "<:SmilingFaceWithHorns:1185091321095008347>",
+      "Loading": "<a:loading:1184904151818326127>",
+      "ShrtFly": "<:shrtfly:1185033342731685939>",
+      "LinkSly": "<:linksly:1185033340114436157>",
+      "Lupa": "<:MagnifyingGlassTiltedLeft:1169850612469465199>",
+      "ID": "<:IdButton:1184741783670886521>",
+      "ErroBot": "<:x_:1184911654304104529>",
+      "AcertoBot": "<:v_:1184911651821076645>",
+      "Pessoa": "<:People:1185051282269016154>",
+      "Lapis": "<:Pencil:1185051285045641336>",
+      "Pasta": "<:OpenFileFolder:1185051283669926011>",
+      "Globo": "<:GlobeWithMeridians:1185051287469965402>",
+      "Quadro": "<:FramedPicture:1185051279395930212>",
+      "Correto": "<:WhiteHeavyCheckMark:1171806254159626292>",
+      "Cadeado": "<:Locked:1171996448817156107>",
+      "Relogio": "<:clockk:1198007307490042037>",
+      "CaixaComCarta": "<:IncomingEnvelope:1171997608248623104>"
+    },
+    "Textos": {
+      "TextoVip": "Está cansado(a) de ver todos esses anúncios para acessar os links? Adquira o nosso VIP e tenha acesso a todos os links do servidor sem anúncios",
+      "TextoVipVenda": "## <:Star:1169850616361791489> Sistema de VIP\n\n> Olá! Como é de conhecimento geral, somos um projeto independente. Portanto, toda ajuda é muito bem-vinda, seja por meio de sugestões, boost ou até mesmo contribuições monetárias. Com isso em mente, nós da Void Packs decidimos abrir a possibilidade de doações para todos, oferecendo benefícios em troca.\n## <:Rocket:1170237254011207691> Benefícios:\n> **1)** Cargo VIP em destaque, posicionado logo abaixo do nosso bot.\n> **2)** Direito de realizar pedidos.\n> **3)** Acesso exclusivo a contas premium, por exemplo: Conta vip no Mega.nz e conta premium no PornHub.\n> **4)** Todos os links compartilhados no servidor sem qualquer tipo de anúncio.\n> **5)** Mais de **10.000** links exclusivos, postados apenas para assinantes VIP.\n## <:CreditCard:1170237251565932594> Planos:\n> VIP **Mensal**: **R$10.00**\n> VIP **Vitalício**: **R$25.00**"
+    }
+}
+  
